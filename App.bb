@@ -53,8 +53,8 @@ Function ReadDirRecur(Dirz$)
 	CloseDir myDir 
 End Function
 Print "Работа окончена"
-;WaitKey
+WaitKey
 
 ;~IDEal Editor Parameters:
-;~F#4#A#16#28
+;~F#4
 ;~C#Blitz3D
